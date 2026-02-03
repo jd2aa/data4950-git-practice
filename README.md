@@ -1,2 +1,14 @@
-# data4950-git-practice
-Test repository 1
+# About Me
+
+**Name:** Jessie Dicker
+**Program:** Data Science, MTSU
+**Graduation:** Spring 2026
+
+## Interests
+- Crocheting
+- Running
+- Mock Trial
+
+## Skills
+- Python
+
