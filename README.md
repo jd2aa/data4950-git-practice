@@ -1,3 +1,7 @@
-# data4950-git-practice
-Test repository 1
+# Test Repository
+
+This practice repository includes the following:
+- Personal profile
+- Analysis plan
+- License 
 
