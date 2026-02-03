@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 **Name:** Jessie Dicker
 **Program:** Data Science, MTSU
